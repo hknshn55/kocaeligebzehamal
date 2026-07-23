@@ -42,10 +42,10 @@ export const siteData = {
         "Masa, dolap, elektronik ekipman ve diğer ofis eşyalarının güvenle taşınması.",
     },
     {
-      title: "Yükleme ve Boşaltma",
-      description:
-        "Kamyon, kamyonet, tır, depo ve iş yerlerinde profesyonel yükleme ve boşaltma desteği.",
-    },
+  title: "Tır Yükleme ve Boşaltma",
+  description:
+    "Tır, kamyon ve kamyonetlerde ürün, koli, palet ve ticari yüklerin düzenli şekilde yüklenmesi ve boşaltılması.",
+},
     {
       title: "Parça Eşya Taşıma",
       description:
